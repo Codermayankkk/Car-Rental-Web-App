@@ -34,4 +34,4 @@ export const userData = (payload, callback) => {
             }
         }
 }
-export const userDataReset = () => {dispatch({ type:  actionTypes.USER_GET_RESET})}
+export const userDataReset = () => {dispatch({ type:  actionTypes.USER_GET_RESET })}
